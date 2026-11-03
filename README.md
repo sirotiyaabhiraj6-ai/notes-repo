@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes App
 
 A full-stack notes application with create, edit, search and delete.
@@ -130,3 +131,7 @@ Add your screenshots to `docs/` and link them here:
 ## Author
 
 Your name - CodeNova Internship, Batch 01
+=======
+# notes-repo
+full stack development
+>>>>>>> 8aeeaca9f5fcb81dc4fa3e1586ef957c6b122ee2
